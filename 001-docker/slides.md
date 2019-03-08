@@ -19,7 +19,7 @@ Senior Software Engineer, Olo
 
 ---
 
-![](7.png)
+![](7.PNG)
 
 ---
 
@@ -47,7 +47,7 @@ When not running as admin, could be as slow as 30 seconds, because symlinks..
 
 ---
 
-![](3.png)
+![](3.PNG)
 
 ---
 
@@ -66,8 +66,8 @@ Even with WSL, NTFS is still used behind the scenes via DrvFs
 
 https://github.com/Microsoft/WSL/issues/873
 
-![](4.png)
-![](5.png)
+![](4.PNG)
+![](5.PNG)
 
 ---
 
@@ -126,7 +126,7 @@ https://github.com/dustinsoftware/Docker-Volume-Watcher
 
 `yarn docker-start` boots up all the containers and does sanity checks
 
-![](6.png)
+![](6.PNG)
 
 ---
 
